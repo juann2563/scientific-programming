@@ -74,8 +74,11 @@ sudo apt-get install python-dev
 sudo apt-get install python3-dev # Python 3
 ###
 sudo apt-get install r-base # R language
+###
 sudo apt-get install ruby ruby-dev
+###
 sudo apt-get install scilab libxml2-dev # For Scilab (Ubuntu 12.04 - Precise Pangolin or later)
+###
 sudo apt-get install tcl8.5-dev
 `` `
 `` `
@@ -113,16 +116,27 @@ Los siguientes idiomas de instalación requieren alguna actualización / trabajo
 ###
 `` `
 sudo apt-get install python-pip && sudo pip install pep8 # For python style checking (Ubuntu 14.04 - Trusty Tahr and later)
+###
 sudo apt-get install liballegro4.2-dev
+###
 sudo apt-get install chicken-bin
+###
 sudo apt-get install clisp-dev
+###
 sudo apt-get install gcj # Gnu compiler for Java
+###
 sudo apt-get install pike7.8-dev
+###
 sudo apt-get install racket # Mzscheme/Racket # (Ubuntu 10.10 - Maverick Meerkat or later)
+###
 sudo apt-get install ocaml
+###
 sudo apt-get install ldc # For D language (Ubuntu 10.10 - Maverick Meerkat or later)
+###
 sudo apt-get install libwebkitgtk-dev # Javascript Webkit (Ubuntu 14.04 - Trusty Tahr or later)
+###
 sudo apt-get install libv8-dev # Javascript v8 (Ubuntu 14.04 - Trusty Tahr or later)
+###
 `` `
 `` `
 ###
@@ -130,13 +144,21 @@ Versiones anteriores:
 ###
 `` `
 sudo apt-get install lua5.1 liblua5.1-0-dev (Ubuntu 13.04 - Raring Ringtail and earlier)
+###
 sudo apt-get install mzscheme drscheme # Mzscheme (Ubuntu 10.04 - Lucid Lynx and earlier)
+###
 sudo apt-get install guile-1.8-dev # (Ubuntu 14.04 - Trusty Tahr and earlier)
+###
 sudo apt-get install octave2.9 octave2.9-headers # (Ubuntu 11.04 - Natty Narwhal and earlier)
+###
 sudo apt-get install octave3.2 octave3.2-headers # (Ubuntu 12.04 - Precise Pangolin and earlier)
+###
 sudo apt-get install php5-cli php5-dev (Ubuntu 14.04 - Trusty Tahr and earlier)
+###
 sudo apt-get install ruby1.8 ruby1.8-dev (Ubuntu 12.04 - Precise Pangolin and earlier)
+###
 sudo apt-get install tcl8.4-dev # (Ubuntu 12.04 - Precise Pangolin and earlier)
+###
 `` `
 `` `
 ###
