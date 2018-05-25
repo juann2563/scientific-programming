@@ -70,6 +70,7 @@ sudo apt-get install tcl8.5-dev
 `` `
 ###
 Todo lo anterior en Ubuntu Xenial Xerus, use:
+###
 
 `` `
 sudo apt install build-essential libpcre3-dev autoconf automake libtool bison git libboost-dev golang-go guile-2.0-dev nodejs npm lua5.3 liblua5.3-dev mono-devel octave liboctave-dev openjdk-9-jdk-headless php-cli php-dev python-dev python3-dev r-base ruby ruby-dev tcl-dev scilab libxml2-dev
@@ -77,24 +78,28 @@ sudo apt install build-essential libpcre3-dev autoconf automake libtool bison gi
 `` `
 ###
 Para Ubuntu Trusty Tahr, use:
+###
 `` `
 sudo apt-get install build-essential libpcre3-dev autoconf automake libtool bison git libboost-dev python-dev ruby ruby-dev tcl-dev mono-devel lua5.2 liblua5.2-dev octave liboctave-dev php5-cli php5-dev openjdk-7-jdk guile-2.0-dev 
 `` `
 `` `
 ###
 Para Ubuntu Raring Ringtail and Saucy Salamander, use:
+###
 `` `
 sudo apt-get install build-essential libpcre3-dev autoconf automake libtool bison git libboost-dev python-dev ruby ruby-dev tcl-dev mono-devel lua5.1 liblua5.1-0-dev octave liboctave-dev php5-cli php5-dev openjdk-7-jdk guile-2.0-dev
 `` `
 `` `
 ###
 Para versiones anteriores de Ubuntu:
+###
 `` `
 sudo apt-get install build-essential libpcre3-dev autoconf automake libtool bison subversion libboost-dev python-dev ruby ruby1.8-dev tcl8.4-dev mono-devel lua5.1 liblua5.1-0-dev octave2.9 octave2.9-headers php5-cli php5-dev openjdk-6-jdk
 `` `
 `` `
 ###
 Los siguientes idiomas de instalación requieren alguna actualización / trabajo adicional:
+###
 `` `
 sudo apt-get install python-pip && sudo pip install pep8 # For python style checking (Ubuntu 14.04 - Trusty Tahr and later)
 sudo apt-get install liballegro4.2-dev
@@ -111,6 +116,7 @@ sudo apt-get install libv8-dev # Javascript v8 (Ubuntu 14.04 - Trusty Tahr or la
 `` `
 ###
 Versiones anteriores:
+###
 `` `
 sudo apt-get install lua5.1 liblua5.1-0-dev (Ubuntu 13.04 - Raring Ringtail and earlier)
 sudo apt-get install mzscheme drscheme # Mzscheme (Ubuntu 10.04 - Lucid Lynx and earlier)
