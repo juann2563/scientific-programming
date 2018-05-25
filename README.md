@@ -32,12 +32,15 @@ Instalar aplicaciones es muy fácil en Ubuntu (uno de los sistemas operativos Li
 sudo apt-get install build-essential libpcre3-dev
 `` `
 `` `
+###
+
 Si desea compilar el ejecutable SWIG de Subversion o Git (es decir, no está utilizando el tarball de distribución) ejecute lo siguiente además de lo anterior:
 
 `` `
 sudo apt-get install autoconf automake libtool bison subversion git
 `` `
 `` `
+###
 Agregue algunas dependencias adicionales para el conjunto de pruebas:
 
 `` `
