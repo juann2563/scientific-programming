@@ -17,21 +17,28 @@ Estas instrucciones le permitirán obtener una copia del proyecto en funcionamie
 Qué cosas necesitas para instalar el software y cómo instalarlas
 
 `` `
-Dar ejemplos
+Simplified Wrapper and Interface Generator (SWIG), Compilador C++, Interprete Python.
 `` `
 
 ### Instalación
 
 Una serie de ejemplos paso a paso que indican que debe ejecutar un entorno de desarrollo
+`` `
+Esta página contiene consejos sobre qué instalar para que los ejemplos de SWIG funcionen rápidamente. También contiene información para compilar el archivo ejecutable de SWIG y el tarball de distribución y el archivo zip de distribución de Windows.
 
-Di lo que será el paso
+Linux - Ubuntu
+Instalar aplicaciones es muy fácil en Ubuntu (uno de los sistemas operativos Linux más populares) y lo siguiente debería tenerlo en funcionamiento muy rápidamente. Las instrucciones han funcionado en Hardy Heron, Intrepid Ibex, Lucid Lynx, Maverick Meerkat, Precise Pangolin, Quantal Quetzal, Raring Ringtail, Saucy Salamander, Trusty Tahr, Xenial Xerus y también es probable que sean adecuados para Debian. Ejecute lo siguiente para obtener las herramientas esenciales para compilar el ejecutable SWIG desde el tarball de distribución, por ejemplo, swig-3.0.12.tar.gz:
 
 `` `
-Da el ejemplo
+sudo apt-get install build-essential libpcre3-dev
+
 `` `
-
-Y repetir
-
+Si desea compilar el ejecutable SWIG de Subversion o Git (es decir, no está utilizando el tarball de distribución) ejecute lo siguiente además de lo anterior:
+`` `
+sudo apt-get install autoconf automake libtool bison subversion git
+`` `
+hasta que termine
+`` `
 `` `
 hasta que termine
 `` `
