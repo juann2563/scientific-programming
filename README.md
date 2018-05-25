@@ -52,16 +52,27 @@ Ejecute lo siguiente que instala los idiomas que SWIG admite mejor:
 ###
 `` `
 #Note: Perl is installed by default
+###
 sudo apt-get install golang-go # For Go language (Ubuntu 12.04 - Precise Pangolin or later)
+###
 sudo apt-get install guile-2.0-dev
+###
 sudo apt-get install nodejs node-gyp # Javascript Node (Ubuntu 14.04 - Trusty Tahr or later)
+###
 sudo apt-get install lua5.3 liblua5.3-dev
+###
 sudo apt-get install mono-devel # C#
+###
 sudo apt-get install octave liboctave-dev
+###
 sudo apt-get install openjdk-9-jdk # Java
+###
 sudo apt-get install php-cli php-dev
+###
 sudo apt-get install python-dev
+###
 sudo apt-get install python3-dev # Python 3
+###
 sudo apt-get install r-base # R language
 sudo apt-get install ruby ruby-dev
 sudo apt-get install scilab libxml2-dev # For Scilab (Ubuntu 12.04 - Precise Pangolin or later)
