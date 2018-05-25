@@ -18,11 +18,11 @@ Qué cosas necesitas para instalar el software y cómo instalarlas
 `` `
 Simplified Wrapper and Interface Generator (SWIG), Compilador C++, Interprete Python.
 `` `
-
+`` `
 ### Instalación
 
 Una serie de ejemplos paso a paso que indican que debe ejecutar un entorno de desarrollo
-`` `
+
 Esta página contiene consejos sobre qué instalar para que los ejemplos de SWIG funcionen rápidamente. También contiene información para compilar el archivo ejecutable de SWIG y el tarball de distribución y el archivo zip de distribución de Windows.
 
 Linux - Ubuntu
@@ -31,21 +31,20 @@ Instalar aplicaciones es muy fácil en Ubuntu (uno de los sistemas operativos Li
 `` `
 sudo apt-get install build-essential libpcre3-dev
 `` `
-
+`` `
 Si desea compilar el ejecutable SWIG de Subversion o Git (es decir, no está utilizando el tarball de distribución) ejecute lo siguiente además de lo anterior:
 
 `` `
 sudo apt-get install autoconf automake libtool bison subversion git
+`` `
 `` `
 Agregue algunas dependencias adicionales para el conjunto de pruebas:
 
 `` `
 sudo apt-get install libboost-dev
 `` `
-
+`` `
 Ejecute lo siguiente que instala los idiomas que SWIG admite mejor:
-
-
 `` `
 #Note: Perl is installed by default
 sudo apt-get install golang-go # For Go language (Ubuntu 12.04 - Precise Pangolin or later)
@@ -62,6 +61,7 @@ sudo apt-get install r-base # R language
 sudo apt-get install ruby ruby-dev
 sudo apt-get install scilab libxml2-dev # For Scilab (Ubuntu 12.04 - Precise Pangolin or later)
 sudo apt-get install tcl8.5-dev
+`` `
 `` `
 Todo lo anterior en Ubuntu Xenial Xerus, use:
 
