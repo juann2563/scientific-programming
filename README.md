@@ -1,2 +1,3 @@
-# Programación científica 
+# Programación científica
+============================
 Curso de Programación científica 
