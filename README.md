@@ -1,2 +1,2 @@
-# scientific-programming
-scientific programming course
+# Programación científica 
+Curso de Programación científica 
