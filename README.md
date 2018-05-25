@@ -109,59 +109,11 @@ sudo apt-get install ruby1.8 ruby1.8-dev (Ubuntu 12.04 - Precise Pangolin and ea
 sudo apt-get install tcl8.4-dev # (Ubuntu 12.04 - Precise Pangolin and earlier)
 `` `
 
-Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para una pequeña demostración
-
-## Ejecución de las pruebas
-
-Explicar cómo ejecutar las pruebas automatizadas para este sistema
-
-### Analizar en pruebas de extremo a extremo
-
-Explica qué prueban estas pruebas y por qué
-
-`` `
-Dar un ejemplo
-`` `
-
 ### Y pruebas de estilo de codificación
 
-Explica qué prueban estas pruebas y por qué
-
-`` `
-Dar un ejemplo
-`` `
-
-## Despliegue
-
-Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
-
-## Construido con
-
-* [Dropwizard] (http://www.dropwizard.io/1.0.2/docs/) - El marco web utilizado
-* [Maven] (https://maven.apache.org/) - Dependency Management
-* [ROMA] (https://rometools.github.io/rome/): se utiliza para generar canales RSS
-
-## Contribuyendo
-
-Lea [CONTRIBUTING.md] (https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obtener detalles sobre nuestro código de conducta y sobre el proceso para enviarnos solicitudes de extracción.
-
-# Versioning
-
-Usamos [SemVer] (http://semver.org/) para el control de versiones. Para ver las versiones disponibles, consulte las [etiquetas en este repositorio] (https://github.com/your/project/tags).
+http://www.swig.org/Doc1.3/SWIGPlus.html
 
 ## Autores
 
-* ** Billie Thompson ** - * Trabajo inicial * - [PurpleBooth] (https://github.com/PurpleBooth)
-
-Consulte también la lista de [colaboradores] (https://github.com/your/project/contributors) que participaron en este proyecto.
-
-## License
-
-Este proyecto está licenciado bajo la licencia MIT. Consulte el archivo [LICENCIA.md] (LICENCIA.md) para obtener más detalles.
-
-## Agradecimientos
-
-* Punta de sombrero para cualquier persona cuyo código fue utilizado
-* Inspiración
-* etc.
-
+* ** Jhon Jairo Rojas Montano **
+* ** Juan Esteban Zabala  **
